@@ -16,7 +16,7 @@
 - 🚀 Areas of interest: **Web Development**, **Artificial Intelligence**, and **Creative Programming**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sreenandh-ap-861189252)
 
----
+
 
 ## Tech Tools
 
@@ -40,7 +40,7 @@
   <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="40" height="40"/>
 </p>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apsreenandh&layout=compact&theme=tokyonight" height="165">
 </p>
 
----
+
 
 ## 🌐 Connect with Me
 
